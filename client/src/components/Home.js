@@ -48,7 +48,7 @@ function Home() {
                 src="./images/home_img.jpeg"
                 alt="Logo"
                 className="img-fluid mx-auto d-block"
-                style={{ maxWidth: "150px" }}
+                style={{ maxWidth: "150px", borderRadius: "10px" }}
               />
               <hr/>
               <h4 className="card-title text-light mb-4">Enter the ROOM ID</h4>
